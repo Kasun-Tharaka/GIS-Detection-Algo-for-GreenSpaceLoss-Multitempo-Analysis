@@ -1,0 +1,1 @@
+# GIS-Detection-Algo-for-GreenSpaceLoss-Multitempo-Analysis
